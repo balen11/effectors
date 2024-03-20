@@ -1,0 +1,1 @@
+ipfs add --only-hash -Q --cid-version 1 --hash sha2-256 --chunker=size-262144 $WASM_FILE_PATH
